@@ -33,9 +33,9 @@ class Database extends Config
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => 'gabino',
-		'password' => 'gabino2323',
-		'database' => 'login btc04',
+		'username' => 'btc6',
+		'password' => '123456AZ',
+		'database' => 'loginbtc6',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
